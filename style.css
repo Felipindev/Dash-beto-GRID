@@ -263,10 +263,9 @@ body {
 }
 
 .hero-text p {
-    font-size: 13.5px;
+    font-size: 14px;
     color: rgba(255,255,255,.75);
     max-width: 380px;
-    line-height: 1.6;
 }
 
 .btn {
@@ -279,7 +278,6 @@ body {
     font-weight: 600;
     cursor: pointer;
     border: none;
-    transition: opacity .15s;
 }
 
 .btn-white { 
